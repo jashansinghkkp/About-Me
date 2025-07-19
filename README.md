@@ -142,58 +142,16 @@
   <div>Connect with me to discuss security, coding, and blockchain</div>
 </footer>
 
-<style>
-  @keyframes blink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0; }
-  }
-  
-  .matrix-bg {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
-    opacity: 0.05;
-    pointer-events: none;
-    background-image: 
-      linear-gradient(to right, rgba(0, 255, 0, 0.1) 1px, transparent 1px),
-      linear-gradient(to bottom, rgba(0, 255, 0, 0.1) 1px, transparent 1px);
-    background-size: 20px 20px;
-  }
-  
-  .social-icon:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 0 15px rgba(0, 255, 0, 0.5);
-  }
-  
-  .skill:hover, .project-card:hover {
-    box-shadow: 0 0 15px rgba(0, 255, 0, 0.3);
-  }
-  
-  .badge {
-    display: inline-block;
-    background: rgba(0, 255, 0, 0.2);
-    color: #0f0;
-    padding: 0.2rem 0.5rem;
-    border-radius: 4px;
-    font-size: 0.8rem;
-    margin-right: 0.5rem;
-    margin-bottom: 0.5rem;
-    border: 1px solid #0f0;
-  }
-  
-  .terminal-command {
-    display: inline-block;
-    background: rgba(0, 0, 0, 0.7);
-    padding: 0.3rem 0.6rem;
-    border: 1px solid #0f0;
-    border-radius: 4px;
-    color: #0f0;
-    font-family: 'Courier New', monospace;
-    margin: 0 0.3rem;
-  }
-</style>
+Security Enthusiast | Ethical Hacker | Developer
 
-<div class="matrix-bg"></div>
+I'm passionate about cybersecurity, ethical hacking, and coding. My journey revolves around:
+
+🔐 Pentesting & Bug Bounty – Hunting vulnerabilities and securing systems.
+
+💻 Coding & Automation – Building tools to simplify security tasks.
+
+📚 Continuous Learning – Exploring reverse engineering, exploit dev, and malware analysis.
+
+🛠️ Open-Source Contributions – Developing & improving security-related projects.
+
+Hack The Planet! 🌍💻
